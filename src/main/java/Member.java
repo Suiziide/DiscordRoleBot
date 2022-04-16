@@ -1,6 +1,5 @@
 import org.javacord.api.entity.server.Server;
 import org.javacord.api.entity.user.User;
-
 import java.io.Serial;
 import java.io.Serializable;
 import java.util.Map;
